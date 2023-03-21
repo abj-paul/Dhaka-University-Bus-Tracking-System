@@ -1,0 +1,13 @@
+* Requirements
+** Core 
+- The user will be able to view the current location of the bus.
+- The user will be able to see approximate time to reach his stoppage.
+- The user will be able to see traffic condition.
+** Extra Features
+- The user will be able to view schedeules for his bus (e.g. Esha Kha Schedeule).
+- The user will be able to turn on notification of bus arrival at his stoppage.
+* Methodology
+The driver's phone will be the key locator.
+The additional phones of students will be there to aid in accuracy.
+
+- Speed and approximate time will be calculated using [[https://www.researchgate.net/publication/342483633_Real_Time_Bus_Tracking_System][google's matrix on distance]].
