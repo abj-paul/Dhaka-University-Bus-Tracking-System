@@ -11,3 +11,6 @@ The driver's phone will be the key locator.
 The additional phones of students will be there to aid in accuracy.
 
 - Speed and approximate time will be calculated using [[https://www.researchgate.net/publication/342483633_Real_Time_Bus_Tracking_System][google's matrix on distance]].
+* Sources
+[[https://www.youtube.com/watch?v=9sPNTMx7HfY&t=367s][Find location and estimate velocity using javascript]]
+[[https://www.w3schools.com/html/html5_geolocation.asp][geeksforgeeks - Find location using javascript]]
