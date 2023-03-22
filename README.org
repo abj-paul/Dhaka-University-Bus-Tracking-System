@@ -14,3 +14,20 @@ The additional phones of students will be there to aid in accuracy.
 * Sources
 [[https://www.youtube.com/watch?v=9sPNTMx7HfY&t=367s][Find location and estimate velocity using javascript]]
 [[https://www.w3schools.com/html/html5_geolocation.asp][geeksforgeeks - Find location using javascript]]
+* Temp : Requirements for Assignment
+** BUS Committee
+- profile,notification
+- Schedeule upload
+- Source, Destination
+- Dummy dataset (BUS er location: 8:00PM Shanir Akhra, 9:00Rayerbag) => Insight
+*** Register BUS & Driver
+- bus register
+- assign driver
+- driver contact information
+** Viewer
+- Select location (destination, source)
+- Which buses go through this route
+
+- View Schedule
+** Geolocation
+BUS er location dekhano
