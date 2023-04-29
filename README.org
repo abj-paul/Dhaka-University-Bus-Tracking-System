@@ -1,3 +1,6 @@
+* About
+The project has been shifted to [[https://github.com/AhnafMubashshir/DU_Bus_Tracker][this repository]].
+
 * Requirements
 ** Core 
 - The user will be able to view the current location of the bus.
